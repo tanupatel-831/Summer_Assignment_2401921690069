@@ -1,1 +1,1 @@
-Day 5 Solution
+Day 5 Solut
